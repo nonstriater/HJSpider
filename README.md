@@ -1,3 +1,7 @@
 
 
+## install dependency
 
+```
+npm install
+```
